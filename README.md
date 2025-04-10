@@ -42,7 +42,7 @@ This project uses deep learning to classify images of 15 different animals using
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/your-username/animal-classifier.git
+   git clone https://github.com/Syam-Doppasani/Animal-Classification.git
    cd animal-classifier
 ## ✅ Features
 
