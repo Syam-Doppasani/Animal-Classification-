@@ -54,3 +54,7 @@ Confident, high-accuracy results (up to 97%)
 
 Easy-to-train and customizable for other animals
 
+# 👨‍💻 Author
+Syam Doppasani
+
+For freelance work or collaborations: syamdoppasani@gmail.com
